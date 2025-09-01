@@ -13,4 +13,4 @@ patched recovery image releases for A15, which enables `fastbootd` mode.
 3.  **FLASH WITH ODIN:** Put the `.tar` file in the **AP** slot using Odin.
 4.  **ENTER FASTBOOTD:** After flashing, boot your device into recovery mode to access `fastbootd`.
 
-**By downloading the recovery file, you accept full responsibility for your device.**
+**By downloading the recovery file, you accept full responsibility for your device. so please be careful while using it.**
