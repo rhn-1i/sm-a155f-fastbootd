@@ -1,0 +1,1 @@
+# sm-a155f-fastbootd
