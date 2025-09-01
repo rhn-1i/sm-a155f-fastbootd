@@ -6,7 +6,7 @@ patched recovery image releases for A15, which enables `fastbootd` mode.
 
 ---
 
-### ⚠️ **READ BEFORE DOWNLOAD** ⚠️
+### ⚠️ **READ BEFORE DOWNLOAD**
 
 1.  **MATCH YOUR BUILD:** This file is for the specific firmware build mentioned in the release title. **DO NOT USE IT ON ANY OTHER BUILD.**
 2.  **UNLOCK BOOTLOADER:** Your device's bootloader must be unlocked.
