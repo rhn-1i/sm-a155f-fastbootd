@@ -1,4 +1,4 @@
-![A15](https://www.dealmonday.co.uk/image/cache/wp/gp/Samsung/Samsung-Galaxy--A15-blue-1-1-1200x1200.webp)
+![A15](https://i0.wp.com/www.gracedigital.pk/wp-content/uploads/2024/10/Samsung-Galaxy-A15-3.png)
 
 ### Patched Recovery
 
