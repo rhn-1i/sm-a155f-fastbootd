@@ -1,4 +1,4 @@
-![A15](https://i0.wp.com/www.gracedigital.pk/wp-content/uploads/2024/10/Samsung-Galaxy-A15-3.png)
+![Banner](https://raw.githubusercontent.com/rhn-1k/sm-a155f-fastbootd/refs/heads/main/72986.png)
 
 ### Patched Recovery
 
